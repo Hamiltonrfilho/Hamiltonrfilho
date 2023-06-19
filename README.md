@@ -1,6 +1,6 @@
 Hi, I’m Hamilton Roth Filho
 - 💻 Working as embedded firmware developer
-- 📈 I’m currently learning Data Analysis
+- 📈 Learning Data Analysis for fun
 
 ##
 
